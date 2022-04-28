@@ -1,0 +1,11 @@
+﻿  PKR_Lab_3.1.cpp
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(153,30): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(154,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(155,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(157,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(158,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(159,110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(160,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(161,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PKR_Lab_3.1\PKR_Lab_3.1\PKR_Lab_3.1.cpp(163,153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PKR_Lab_3.1.vcxproj -> C:\Users\Admin\source\repos\PKR_Lab_3.1\x64\Debug\PKR_Lab_3.1.exe
